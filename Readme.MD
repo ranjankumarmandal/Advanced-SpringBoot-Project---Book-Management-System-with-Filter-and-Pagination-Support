@@ -18,6 +18,18 @@ A simple Spring Boot REST API for managing books, demonstrating:
 
 # Test Evidences: (Need to update)
 
+- APIs on Swagger
+ ![img.png](img.png)
+
+- Postman Request
+ ![img_1.png](img_1.png)
+
+- Postman Request (for GET filter and pagination support: http://localhost:8080/books/page?page=0&size=5&sortBy=title)
+ ![img_3.png](img_3.png)
+
+- H2 DB console
+ ![img_2.png](img_2.png)
+
 
 ## 🚀 Getting Started
 
